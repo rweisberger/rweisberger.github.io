@@ -11590,3 +11590,12 @@ footer.footer .social-link:hover {
   margin-top: 15px;
   margin-bottom: 25px;
 }
+/* adding a few things */
+.pdf-button{
+  width: 200px;
+  margin: 4px;
+}
+.contact-button{
+  width: 300px;
+  margin: 4px;
+}
